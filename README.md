@@ -22,30 +22,8 @@ An awesome, deployable, simple, non spammy, auth-system enabled, multi-chat musi
 
 ---
 
-### Deploy to railways:
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/vpsb/Ohto-Ai&envs=START_TIME ,SESSION_NAME,BOT_USERNAME,BOT_NAME,OWNER_ID,UBOT_ID,START_PIC,PLAY_PIC,API_ID,API_HASH,BOT_USERNAME,COMMAND_PREFIXES,SUDO_USERS)
 
-I recommend deploying on railways, because it lags relatively less than heroku (almost lagless)
-
-<details>
-<summary>Steps to Deploy on Railway</summary>
-<ol>
-<li>Fork This Repo, to your github account</li>
-<li>Create an account at <a href='https://railway.app'>Railway</a>
-<li>Create an app at railway with a postgresql addon</li>
-<li>Gather all the requirements mentioned above in the following manner in your notes app, and then after finishing copy the whole thing to your clipboard
-<img src='https://telegra.ph/file/4c45814b6ec4e96b686a2.jpg'>
-</li>
-<li>Go to railway, to the app you created, and then go to the tab <code>variables</code></li>
-<li>Click on bulk import, a dialogue box would open up, now paste the whole copied vars that we copied in step 4</li>
-<li>Now go to the Deployment tab and then connect your github</li>
-<li>After connecting your github, connect the forked repo that you forked from me</li>
-<li>Now deploy it, wait until it comes online and enjoy lagless music!</li>
-</ol>
-</details>
-
-### Deploy to Heroku: 
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Zack-Bloodshot/Ohto-Ai)
 
 ---
 
