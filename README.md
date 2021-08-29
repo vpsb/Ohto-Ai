@@ -22,7 +22,7 @@ An awesome, deployable, simple, non spammy, auth-system enabled, multi-chat musi
 
 ---
 
-[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/vpsb/Ohto-Ai&envs=START_TIME ,SESSION_NAME,BOT_USERNAME,BOT_NAME,OWNER_ID,UBOT_ID,START_PIC,PLAY_PIC,API_ID,API_HASH,BOT_USERNAME,COMMAND_PREFIXES,SUDO_USERS)
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/vpsb/Ohto-Ai&envs=START_TIME,SESSION_NAME,BOT_USERNAME,BOT_NAME,OWNER_ID,UBOT_ID,START_PIC,PLAY_PIC,API_ID,API_HASH,BOT_USERNAME,COMMAND_PREFIXES,SUDO_USERS)
 
 
 ---
