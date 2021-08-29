@@ -26,11 +26,7 @@ API_HASH = getenv("API_HASH")
 
 BOT_USERNAME = getenv("BOT_USERNAME")
 
-DURATION_LIMIT = int(getenv("DURATION_LIMIT", "7"))
-
 SUMMONER = getenv('SUMMONER', 'False')
-
-PROXY = getenv('PROXY')
 
 COMMAND_PREFIXES = list(getenv("COMMAND_PREFIXES", "/ !").split())
 
