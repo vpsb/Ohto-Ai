@@ -1,6 +1,6 @@
 git+https://github.com/pyrogram/pyrogram@master
 TgCrypto==1.2.2
-pytgcalls[pyrogram]==3.0.0.dev8
+pytgcalls[pyrogram]==3.0.0.dev9
 python-dotenv
 ffmpeg-python
 moviepy
